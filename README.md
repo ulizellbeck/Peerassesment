@@ -25,8 +25,9 @@ Prerequisites:
 
 * The dataset is already extracted in your working directory.
 * The R packages [plyr] and [reshape2] are installed before the script is started. You can get them here:
-** http://cran.r-project.org/web/packages/reshape2/index.html and
-** http://cran.r-project.org/web/packages/plyr/index.html
+
+* http://cran.r-project.org/web/packages/reshape2/index.html and
+* http://cran.r-project.org/web/packages/plyr/index.html
 
 ## Code book
 
