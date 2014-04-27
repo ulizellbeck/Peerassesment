@@ -4,14 +4,6 @@ This readme gives an overview of the project structure and the scripts.
 
 ## Script
 
-### `download.R`
-
- * downloads the data for the project, saving it as `dataset.zip` (skipped if `dataset.zip` already exists),
- * extracts it into the working directory.
-
-The zip has a single root directory `UCI HAR Dataset`, so it will not pollute the working directory with individual files.
-This script is for convenience only, downloading and extracting may be performed manually, too.
-
 ### `run_analysis.R`
 
 The script can be used to convert the Samsung dataset into a tiny data set. The script is divided into 4 parts:
