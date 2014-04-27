@@ -4,7 +4,7 @@ This readme gives an overview of the project structure and the scripts.
 
 ## Script
 
-### `run_analysis.R`
+### run_analysis.R
 
 The script can be used to convert the Samsung dataset into a tiny data set. The script is divided into 4 parts:
 
